@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T07:19:00.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="v054RI4mFEmTIr4xfMuH" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:21:40.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pEZhUtLjQwszUzPG1iO3" version="21.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="pOX3ojqlP_ocPjnkbAkA-16" value="消费线程" style="rounded=0;rotation=90;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pOX3ojqlP_ocPjnkbAkA-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOX3ojqlP_ocPjnkbAkA-17" target="pOX3ojqlP_ocPjnkbAkA-77">
+        <mxCell id="pOX3ojqlP_ocPjnkbAkA-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;strokeColor=#f90606;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOX3ojqlP_ocPjnkbAkA-17" target="pOX3ojqlP_ocPjnkbAkA-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pOX3ojqlP_ocPjnkbAkA-17" value="消费线程" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -197,14 +197,29 @@
         <mxCell id="pOX3ojqlP_ocPjnkbAkA-76" value="死循环逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOX3ojqlP_ocPjnkbAkA-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#8a0a48;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOX3ojqlP_ocPjnkbAkA-77" target="pOX3ojqlP_ocPjnkbAkA-80">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pOX3ojqlP_ocPjnkbAkA-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#f70808;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOX3ojqlP_ocPjnkbAkA-77" target="pOX3ojqlP_ocPjnkbAkA-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="350" />
+              <mxPoint x="680" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pOX3ojqlP_ocPjnkbAkA-77" value="调用lobback记录日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pOX3ojqlP_ocPjnkbAkA-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#f20707;fillColor=#f8cecc;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOX3ojqlP_ocPjnkbAkA-80" target="pOX3ojqlP_ocPjnkbAkA-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pOX3ojqlP_ocPjnkbAkA-80" value="logger.info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOX3ojqlP_ocPjnkbAkA-83" value="重复数据需剔除" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="110" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
