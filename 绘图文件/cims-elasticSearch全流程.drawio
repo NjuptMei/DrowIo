@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T16:37:57.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aPSNwH70Y81VZnNh9ddw" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T17:14:58.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vflpE1pfnCNYOxED148c" version="21.1.8" type="github">
   <diagram name="第 1 页" id="F1F1tczmCz8_vwdtoLMD">
-    <mxGraphModel dx="2901" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EhgFYe17gosKgeHCHdaY-163" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1118" y="790" width="242" height="370" as="geometry" />
+          <mxGeometry x="1187" y="787" width="242" height="370" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-107" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="790" width="330" height="370" as="geometry" />
@@ -204,13 +204,8 @@
         <mxCell id="EhgFYe17gosKgeHCHdaY-127" value="增量消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1052" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EhgFYe17gosKgeHCHdaY-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EhgFYe17gosKgeHCHdaY-128" target="EhgFYe17gosKgeHCHdaY-141">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1100" y="1032" />
-              <mxPoint x="1100" y="1072" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EhgFYe17gosKgeHCHdaY-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EhgFYe17gosKgeHCHdaY-128" target="EhgFYe17gosKgeHCHdaY-170">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-128" value="实时运算" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1012" width="100" height="40" as="geometry" />
@@ -218,13 +213,8 @@
         <mxCell id="EhgFYe17gosKgeHCHdaY-129" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="1" source="EhgFYe17gosKgeHCHdaY-127" target="EhgFYe17gosKgeHCHdaY-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EhgFYe17gosKgeHCHdaY-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EhgFYe17gosKgeHCHdaY-130" target="EhgFYe17gosKgeHCHdaY-141">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1100" y="1112" />
-              <mxPoint x="1100" y="1072" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EhgFYe17gosKgeHCHdaY-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EhgFYe17gosKgeHCHdaY-130" target="EhgFYe17gosKgeHCHdaY-170">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-130" value="多表数据关联" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1092" width="100" height="40" as="geometry" />
@@ -236,7 +226,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-141" value="ElasticSearch" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1182" y="1042" width="118" height="60" as="geometry" />
+          <mxGeometry x="1251" y="1039" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.518;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EhgFYe17gosKgeHCHdaY-150" target="EhgFYe17gosKgeHCHdaY-153">
           <mxGeometry relative="1" as="geometry" />
@@ -245,25 +235,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-150" value="数据管道，开放采集数据。如logstash等" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1166" y="940" width="150" height="80" as="geometry" />
+          <mxGeometry x="1235" y="937" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-153" value="kibana" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="799" width="88" height="59.5" as="geometry" />
+          <mxGeometry x="1199" y="796" width="88" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-155" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1244" y="810" width="20" height="20" as="geometry" />
+          <mxGeometry x="1313" y="807" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-156" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1231" y="810" width="20" height="20" as="geometry" />
+          <mxGeometry x="1300" y="807" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-157" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1218" y="810" width="20" height="20" as="geometry" />
+          <mxGeometry x="1287" y="807" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-158" value="kibana" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1264" y="799.5" width="88" height="59.5" as="geometry" />
+          <mxGeometry x="1333" y="796.5" width="88" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-164" value="&lt;p id=&quot;20230417003337-ht1p8pf&quot;&gt;数据开放及持久化&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1184" y="760" width="110" height="30" as="geometry" />
+          <mxGeometry x="1253" y="757" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-166" value="请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="790" width="60" height="30" as="geometry" />
@@ -271,8 +261,14 @@
         <mxCell id="EhgFYe17gosKgeHCHdaY-167" value="请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="988" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EhgFYe17gosKgeHCHdaY-168" value="&lt;h1&gt;系统架构图&lt;/h1&gt;&lt;p&gt;支持多源数据接入，开放数据查询、数据采集等api接口。提供准实时同步功能，实时数仓&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="620" width="190" height="120" as="geometry" />
+        <mxCell id="EhgFYe17gosKgeHCHdaY-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="EhgFYe17gosKgeHCHdaY-170" target="EhgFYe17gosKgeHCHdaY-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhgFYe17gosKgeHCHdaY-170" value="消息队列" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1054" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EhgFYe17gosKgeHCHdaY-174" value="listen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="1039" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
