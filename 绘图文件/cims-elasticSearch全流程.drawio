@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T16:35:39.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UKof1I9uuDjBpX6L__OJ" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T16:37:57.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aPSNwH70Y81VZnNh9ddw" version="21.1.8" type="github">
   <diagram name="第 1 页" id="F1F1tczmCz8_vwdtoLMD">
     <mxGraphModel dx="2901" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -270,6 +270,9 @@
         </mxCell>
         <mxCell id="EhgFYe17gosKgeHCHdaY-167" value="请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="988" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EhgFYe17gosKgeHCHdaY-168" value="&lt;h1&gt;系统架构图&lt;/h1&gt;&lt;p&gt;支持多源数据接入，开放数据查询、数据采集等api接口。提供准实时同步功能，实时数仓&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="620" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
